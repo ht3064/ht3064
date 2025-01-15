@@ -25,9 +25,11 @@
   
   ### 🛠 SKILL 🛠
  
-  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-6E4190?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-6E4190?style=flat-square&logo=hibernate&logoColor=white"/> 
 <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <br>
