@@ -1,37 +1,51 @@
-<div align="center">
-  
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuntaei"/>
-  
-## 👋 HYUN TAEI 👋 
-  
+<div align="left">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fht3064&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/ht3064)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Hyuntaei%20Choi&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=Welcome%20to%20my%20GitHub!&descSize=25&descAlign=75&descAlignY=55)
 
+## 🙋‍♂️ **About Me**
+I'm a backend developer who enjoys building efficient and scalable systems.  
+I focus on writing clean, maintainable code and constantly improving my skills.  
 
+<br/>
 
-  🎓 숭실대학교 산업정보시스템공학과
+## 🔥 Activities
 
-  🔎 4차 산업혁명 연합 동아리 TAVE 12기
- 
+* LG CNS AM CAMP 1st Backend Part (2024.12 ~ 진행중)
+* TAVE 13th Backend Part OB (2024.05 ~ 2024.07)
+* TAVE 12th Backend Part YB (2023.09 ~ 2024.01)
 
-  <br>
- 
-</div>
+<br/>
 
+## 💻 Projects
 
-<div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ht3064&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-  
-  ### 🛠 SKILL 🛠
- 
-  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/-JPA-6E4190?style=flat-square&logo=hibernate&logoColor=white"/> 
-<br>
-  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<br>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<br>
+| 프로젝트 이름 | 진행기간       | 한줄소개             | 역할                   |
+|---------------|---------------|---------------------|----------------------------------|
+| devfit | 2024.12 ~ 진행중 | <a href="https://github.com/AM-Inspire-Devfit/devfit-server">개발자들의 성공적인 협업을 돕는 서비스</a> | Backend Leader |
+| pickle | 2024.05 ~ 2024.07 | <a href="https://github.com/Pickle-Tave">AI기반 차세대 갤러리 서비스</a> | Backend Leader |
+| 다정다감 | 2023.11 ~ 2024.01 | 자취생을 위한 물물교환 및 공동구매 서비스 | Backend Developer |
 
-</div>
+<br/>
+
+## 🎖️ Awards
+🏆 **TAVE 13th 후반기 프로젝트 대상 수상**
+
+<br/>
+
+## 🛠 Tech Stack  
+### 🚀 Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-blue?style=flat)  
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-FF9900?style=flat) ![JaCoCo](https://img.shields.io/badge/JaCoCo-FF0000?style=flat)  
+
+### ☁️ DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-F38B00?style=flat&logo=amazon-ecs&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-F38B00?style=flat&logo=amazon-ec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white) ![Route 53](https://img.shields.io/badge/Route%2053-FF9900?style=flat&logo=amazon-route-53&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+
+<br/>
+
+## 💻 PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuntaei)](https://solved.ac/ht3064)
+
+-----
