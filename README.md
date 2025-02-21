@@ -48,4 +48,7 @@ I focus on writing clean, maintainable code and constantly improving my skills.
 ## 💻 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyuntaei)](https://solved.ac/ht3064)
 
+![ht3064's github stats](https://github-readme-stats.vercel.app/api?username=ht3064)
+
+
 -----
