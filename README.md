@@ -20,7 +20,7 @@ I focus on writing clean, maintainable code and constantly improving my skills.
 
 | 프로젝트 이름 | 진행기간       | 한줄소개             | 역할                   |
 |---------------|---------------|---------------------|----------------------------------|
-| devfit | 2024.12 ~ 진행중 | <a href="https://github.com/AM-Inspire-Devfit/devfit-server">개발자들의 성공적인 협업을 돕는 서비스</a> | Backend Leader |
+| devfit | 2024.12 ~ 2024.04 | <a href="https://github.com/AM-Inspire-Devfit/devfit-server">개발자들의 성공적인 협업을 돕는 서비스</a> | Backend Leader |
 | pickle | 2024.05 ~ 2024.07 | <a href="https://github.com/Pickle-Tave">AI기반 차세대 갤러리 서비스</a> | Backend Leader |
 | 다정다감 | 2023.11 ~ 2024.01 | 자취생을 위한 물물교환 및 공동구매 서비스 | Backend Developer |
 
