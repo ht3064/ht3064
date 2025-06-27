@@ -10,7 +10,7 @@ I focus on writing clean, maintainable code and constantly improving my skills.
 
 ## 🔥 Activities
 
-* LG CNS AM CAMP 1st Backend Part (2024.12 ~ 진행중)
+* LG CNS AM CAMP 1st Backend Part (2024.12 ~ 2025.06)
 * TAVE 13th Backend Part OB (2024.05 ~ 2024.07)
 * TAVE 12th Backend Part YB (2023.09 ~ 2024.01)
 
