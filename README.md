@@ -20,9 +20,10 @@ I focus on writing clean, maintainable code and constantly improving my skills.
 
 | 프로젝트 이름 | 진행기간       | 한줄소개             | 역할                   |
 |---------------|---------------|---------------------|----------------------------------|
+| cherrypic (pickle 후속) | 2025.6 ~ 진행중 | <a href="https://github.com/cherrypic-proj">AI기반 차세대 갤러리 서비스 </a> | Backend Leader + DevOps |
 | popi | 2025.4 ~ 2025.6 | <a href="https://github.com/popi-official">LiDAR 카메라 기반 무인 팝업스토어 관리·이용 서비스 </a> | Backend Leader + DevOps |
-| devfit | 2024.12 ~ 2025.04 | <a href="https://github.com/AM-Inspire-Devfit/devfit-server">개발자들의 성공적인 협업을 돕는 서비스</a> | Backend Leader |
-| pickle | 2024.05 ~ 2024.07 | <a href="https://github.com/Pickle-Tave">AI기반 차세대 갤러리 서비스</a> | Backend Leader |
+| devfit | 2024.12 ~ 2025.04 | <a href="https://github.com/AM-Inspire-Devfit/devfit-server">개발자들의 성공적인 협업을 돕는 서비스</a> | Backend Leader + DevOps |
+| pickle | 2024.05 ~ 2024.07 | <a href="https://github.com/Pickle-Tave">AI기반 차세대 갤러리 서비스</a> | Backend Leader + DevOps |
 | 다정다감 | 2023.11 ~ 2024.01 | 자취생을 위한 물물교환 및 공동구매 서비스 | Backend Developer |
 
 <br/>
